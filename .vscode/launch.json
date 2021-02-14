@@ -1,0 +1,87 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BattleMain<WarSim2020_7195cc3a>",
+            "request": "launch",
+            "mainClass": "Question7CreditCardValidation",
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BattleMain<WarSim2020_7195cc3a>",
+            "request": "launch",
+            "mainClass": "BattleMain",
+            "projectName": "WarSim2020_7195cc3a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BattleMain",
+            "request": "launch",
+            "mainClass": "BattleMain"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Chapters_123Main",
+            "request": "launch",
+            "mainClass": "Chapters_123Main"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ColouredSystemOutPrintln",
+            "request": "launch",
+            "mainClass": "ColouredSystemOutPrintln"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConsoleHelper",
+            "request": "launch",
+            "mainClass": "ConsoleHelper"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintfSampleMain",
+            "request": "launch",
+            "mainClass": "PrintfSampleMain"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Question6ConverterMain",
+            "request": "launch",
+            "mainClass": "Question6ConverterMain"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Question7CreditCardValidation",
+            "request": "launch",
+            "mainClass": "Question7CreditCardValidation"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpinningRod",
+            "request": "launch",
+            "mainClass": "SpinningRod"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringBuilderMain",
+            "request": "launch",
+            "mainClass": "StringBuilderMain"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
